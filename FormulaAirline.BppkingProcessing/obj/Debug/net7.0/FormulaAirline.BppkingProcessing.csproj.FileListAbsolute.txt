@@ -1,0 +1,17 @@
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\bin\Debug\net7.0\FormulaAirline.BppkingProcessing.exe
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\bin\Debug\net7.0\FormulaAirline.BppkingProcessing.deps.json
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\bin\Debug\net7.0\FormulaAirline.BppkingProcessing.runtimeconfig.json
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\bin\Debug\net7.0\FormulaAirline.BppkingProcessing.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\bin\Debug\net7.0\FormulaAirline.BppkingProcessing.pdb
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.csproj.AssemblyReference.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.AssemblyInfoInputs.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.AssemblyInfo.cs
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.csproj.CoreCompileInputs.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\refint\FormulaAirline.BppkingProcessing.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.pdb
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.genruntimeconfig.cache
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\ref\FormulaAirline.BppkingProcessing.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\azimz\OneDrive\Masaüstü\Desktop_Folders\AirLinesV2\FormulaAirline.BppkingProcessing\obj\Debug\net7.0\FormulaAirline.BppkingProcessing.csproj.CopyComplete

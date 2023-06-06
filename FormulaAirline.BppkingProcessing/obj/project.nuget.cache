@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6HKqFxUJ+JuLazK8G0WVAfiHCHnp+7oztGYBbJ8XVfwliDCA8lRcMlzkbK7V3xowzm7d53lHVMjL+eTrk35vJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azimz\\OneDrive\\Masaüstü\\Desktop_Folders\\AirLinesV2\\FormulaAirline.BppkingProcessing\\FormulaAirline.BppkingProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azimz\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\azimz\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\azimz\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
